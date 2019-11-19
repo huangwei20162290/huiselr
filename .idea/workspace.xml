@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0470dac-0411-4222-85fa-6bdae34fffaa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/encdec/AESUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/encdec/AESUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/encdec/EncrypAES.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/encdec/EncrypAES.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/encdec/EncrypRSA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/encdec/EncrypRSA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/javakingrode/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/javakingrode/Thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/javakingrode/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/javakingrode/Thread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/GetDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/GetDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/IndexOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/ListGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/ListGet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/MapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/MapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/StringFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/StringFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/TestIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mppaixu/com/huiselr/test/TestIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/huiselr/test/IndexOf.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="168" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="ProjectId" id="1Q06wobWjOKH8hlXXgWUjcKdIIO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.12062726" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GetDate">
+    <configuration name="EncrypAES" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huiselr.encdec.EncrypAES" />
+      <module name="mppaixu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huiselr.encdec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncrypRSA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huiselr.encdec.EncrypRSA" />
+      <module name="mppaixu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huiselr.encdec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huiselr.test.GetDate" />
+      <module name="mppaixu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huiselr.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManyThead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huiselr.javakingrode.ManyThead" />
+      <module name="mppaixu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huiselr.javakingrode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManyThread2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huiselr.javakingrode.ManyThread2" />
+      <module name="mppaixu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huiselr.javakingrode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetDate" />
+        <item itemvalue="Application.ManyThread2" />
+        <item itemvalue="Application.ManyThead" />
+        <item itemvalue="Application.EncrypRSA" />
+        <item itemvalue="Application.EncrypAES" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0470dac-0411-4222-85fa-6bdae34fffaa" name="Default Changelist" comment="" />
+      <created>1566895407636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566895407636</updated>
+      <workItem from="1571967223350" duration="2414000" />
+      <workItem from="1572245309001" duration="1355000" />
+      <workItem from="1572251775326" duration="2977000" />
+      <workItem from="1572490995911" duration="686000" />
+      <workItem from="1572518271197" duration="159000" />
+      <workItem from="1572577169834" duration="704000" />
+      <workItem from="1572866144217" duration="1122000" />
+      <workItem from="1572949695441" duration="735000" />
+      <workItem from="1573013373393" duration="3662000" />
+      <workItem from="1573204752325" duration="1367000" />
+      <workItem from="1573463624079" duration="193000" />
+      <workItem from="1573467326175" duration="514000" />
+      <workItem from="1573520419071" duration="1835000" />
+      <workItem from="1573608445384" duration="1079000" />
+      <workItem from="1573618132430" duration="347000" />
+      <workItem from="1573703531727" duration="937000" />
+      <workItem from="1573731860877" duration="307000" />
+      <workItem from="1573785551484" duration="757000" />
+      <workItem from="1573790454299" duration="1455000" />
+      <workItem from="1574047696702" duration="649000" />
+      <workItem from="1574059838101" duration="1017000" />
+      <workItem from="1574062407474" duration="658000" />
+      <workItem from="1574067862720" duration="5966000" />
+      <workItem from="1574146891147" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mppaixu$Bubble.ic" NAME="Bubble Coverage Results" MODIFIED="1567395485783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.huiselr.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
